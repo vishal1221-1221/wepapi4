@@ -29,6 +29,26 @@ namespace microservice2.Controllers
 
          UserName="gopal",
          Password="gopal",
+         Role="User"
+       
+
+
+
+    }
+     new AdminModel
+            {
+              UserFirstName="Ritika",
+            UserMiddleName="Maan",
+        UserLastName ="Jain",
+         Address ="Noida",
+         EmailId="Ritika@gmail.com",
+         UniQueHousNo="B43",
+         PhoneNo="987654322",
+         
+
+
+         UserName="Ritika",
+         Password="Jain123",
          Role="Admin"
        
 
