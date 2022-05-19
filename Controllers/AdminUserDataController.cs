@@ -34,7 +34,7 @@ namespace microservice2.Controllers
 
 
 
-    }
+    },
      new AdminModel
             {
               UserFirstName="Ritika",
